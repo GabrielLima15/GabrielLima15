@@ -4,8 +4,7 @@
 - 🔭 Atualmente empregado como Analista de Service desk N1
 - 🌱 estudando: HTML, CSS3, JAVASCRIPT, BOOTSTRPA, PYTHON, 
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
--->
+
 <div>
   <a href="https://github.com/GabrielLima15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
