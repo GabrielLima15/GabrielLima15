@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente empregado como Analista de Service desk N1
-- 🌱 estudando: HTML, CSS3, JAVASCRIPT, BOOTSTRPA, PYTHON, 
+- 🌱 estudando: HTML, CSS3, JAVASCRIPT, BOOTSTRAP, PYTHON, 
 - 😄 Pronouns: ele/dele
 
 <div>
