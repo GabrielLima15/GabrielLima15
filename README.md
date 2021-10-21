@@ -1,7 +1,7 @@
 ### Olá Eu sou o Gabriel Carvalho de Lima!! 👋
 
 
-- 🔭 Atualmente empregado Desenvolvedor Front end Junior na Agência AllDigital
+- 🔭 Atualmente empregado como Desenvolvedor Front end Junior na Agência AllDigital
 - 🌱 estudando: HTML, CSS3, JAVASCRIPT, BOOTSTRAP, PYTHON, 
 - 😄 Pronouns: ele/dele
 
