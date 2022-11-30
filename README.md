@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente empregado como Desenvolvedor Front end Junior
-- 🌱 estudando: HTML, CSS3, JAVASCRIPT, BOOTSTRAP, REACT, 
+- 🌱 estudando: HTML, CSS3, JAVASCRIPT, BOOTSTRAP e REACT
 - 😄 Pronouns: ele/dele
 
 <div>
