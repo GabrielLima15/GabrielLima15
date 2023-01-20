@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente empregado como Desenvolvedor Front end Junior
 - 🌱 estudando: Javascript, React.js & Node.js
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/GabrielLima15">
