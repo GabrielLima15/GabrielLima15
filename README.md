@@ -5,11 +5,8 @@
 - 🌱 estudando: Javascript, React.js & Node.js
 
 
-<div>
-  <a href="https://github.com/GabrielLima15">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielLima15"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielLima15"/>
-</div>
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style="display: inline_block; gap:0 5px"><br>
   <img align="center" alt="Bibi-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
