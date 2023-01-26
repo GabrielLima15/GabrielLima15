@@ -5,7 +5,7 @@
 - 🌱 estudando: Javascript, React.js & Node.js
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=GabrielLima15&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block; gap:0 5px"><br>
