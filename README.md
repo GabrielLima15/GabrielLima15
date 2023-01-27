@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, React, TypeScript e Estudando Node.JS</strong>
+  🦄 Linguagens: <strong>JavaScript, React, TypeScript e Estudando Node.JS e React Native</strong>
 </p>
 
 <p align="left">
