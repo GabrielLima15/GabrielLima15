@@ -35,7 +35,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.agenciaalldigital.com/imgs/favicon.webp"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.agenciaalldigital.com/imgs/favicon.webp"/>](https://www.agenciaalldigital.com)
 
 **Software Engineer** \
 [**Nubank**](https://nubank.com.br/) • Contract \
