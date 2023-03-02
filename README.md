@@ -37,11 +37,10 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.agenciaalldigital.com/imgs/favicon.webp"/>](https://www.agenciaalldigital.com)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**Desenvolvedor Front end Jr** \
+[**Agência AllDigital**](https://www.agenciaalldigital.com) • PJ \
+Linguagens & Tecnologias: `React`, `Tailwind CSS`, `TypeScript`, `Node.js`, `Git/GitHub` \
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gabriel-lima27/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
