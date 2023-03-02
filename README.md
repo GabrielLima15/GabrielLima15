@@ -38,7 +38,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.agenciaalldigital.com/imgs/favicon.webp"/>](https://www.agenciaalldigital.com)
 
 **Desenvolvedor Front end Jr** \
-[**Agência AllDigital**](https://www.agenciaalldigital.com) • PJ \
+[**Agência AllDigital**](https://www.agenciaalldigital.com) • Contrato: PJ \
 Linguagens & Tecnologias: `React`, `Tailwind CSS`, `TypeScript`, `Node.js`, `Git/GitHub` \
 <br/>
 <br/>
