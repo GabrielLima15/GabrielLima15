@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, React, TypeScript e Estudando Node.JS, Next.js e React Native</strong>
+  🦄 Linguagens: <strong>JavaScript, React, TypeScript</strong>
+</p>
+
+<p align="left">
+  👨🏻‍💻 Estudando: <strong>Node.JS, Next.js e React Native</strong>
 </p>
 
 <p align="left">
