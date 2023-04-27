@@ -2,8 +2,7 @@
 
 <p align="left"> 
   Olá Eu sou o Gabriel Carvalho de Lima!! 👋 <br>
-  Atuamente atuando como Desenvolvedor Front end Júnior. <br>
-  Sou ambicioso e não gosto de ficar parado adoro um desafio.
+  Atualmente estou trabalhando como Desenvolvedor Front-end Júnior. <br> Sou uma pessoa ambiciosa e não gosto de ficar parado, sempre busco novos desafios para me desenvolver.
 </p>
 
 <p align="left">
