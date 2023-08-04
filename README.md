@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, React, TypeScript</strong>
+  🦄 Linguagens: <strong>JavaScript, React, TypeScript, Next.JS</strong>
 </p>
 
 <p align="left">
-  👨🏻‍💻 Estudando: <strong>Node.JS, Next.js e React Native</strong>
+  👨🏻‍💻 Estudando: <strong>Back End</strong>
 </p>
 
 <p align="left">
