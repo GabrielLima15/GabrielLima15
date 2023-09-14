@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá Eu sou o Gabriel Carvalho de Lima!! 👋 <br>
-  Atualmente estou trabalhando como Desenvolvedor Front-end Júnior. <br> Sou uma pessoa ambiciosa e não gosto de ficar parado, sempre busco novos desafios para me desenvolver.
+  Olá, sou Gabriel Carvalho de Lima! 👋 <br>
+  Desenvolvedor Front-end Júnior apaixonado por criar experiências incríveis na web e em aplicativos móveis. <br> Estou sempre em busca de novos desafios para aprimorar minhas habilidades e expandir meu conhecimento.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, React, TypeScript, Next.JS, React Native, Node.js</strong>
+  🚀 Tecnologias: <strong>JavaScript, React, TypeScript, Next.JS, React Native, Node.js</strong>
 </p>
 
 <p align="left">
