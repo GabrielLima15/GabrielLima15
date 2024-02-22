@@ -10,10 +10,6 @@
 </p>
 
 <p align="left">
-  👨🏻‍💻 Estudando: <strong>Back End</strong>
-</p>
-
-<p align="left">
   💼 Ferramentas: <strong>Visual studio code e Figman</strong>
 </p>
 
@@ -37,6 +33,14 @@
 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.x-apps.com.br/favicon.svg?v=7911db89be76ae9c104c428c9cbea2b7"/>](https://www.x-apps.com.br/)
+
+**Front end Developer | Mobile Developer** \
+[**X-Apps**](https://www.x-apps.com.br/) • Contrato: PJ \
+Linguagens & Tecnologias: `React`, `React Native`, `Tailwind CSS`, `TypeScript`, `Node.js`, `Git/GitHub`, `GitLab`, `Docker`, `Styled Components`  \
+<br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.agenciaalldigital.com/imgs/favicon.webp"/>](https://www.agenciaalldigital.com)
 
