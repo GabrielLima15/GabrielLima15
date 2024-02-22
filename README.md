@@ -2,7 +2,13 @@
 
 <p align="left"> 
   Olá, sou Gabriel Carvalho de Lima! 👋 <br>
-  Desenvolvedor Front-end Júnior apaixonado por criar experiências incríveis na web e em aplicativos móveis. <br> Estou sempre em busca de novos desafios para aprimorar minhas habilidades e expandir meu conhecimento.
+  Desenvolvo aplicações web responsivas utilizando tecnologias como React.js e Next.js, aliadas ao Typescript. Para a estilização, aplico ferramentas modernas como TailwindCSS.
+
+No desenvolvimento de aplicações móveis, emprego React Native e Typescript, complementando a estilização com Styled Components. Na gestão do back-end, minha experiência inclui Node.js e Typescript, bem como bancos de dados MySQL e PostgreSQL, integrados através do TypeORM.
+
+Já tive oportunidade de mexer com projetos legados. Adoto o Git para o versionamento de código, garantindo uma gestão eficiente e colaborativa dos projetos.
+
+Além disso, utilizo Docker para criar, gerenciar e implantar aplicações em ambientes isolados, o que assegura maior consistência e facilita a implantação em diferentes plataformas.
 </p>
 
 <p align="left">
