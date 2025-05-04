@@ -1,25 +1,41 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![](https://komarev.com/ghpvc/?username=gabriellimaa&color=006bed)
 
-<p align="left"> 
-  Sou desenvolvedor mobile com 4 anos de experiência e também com atuação em web. Tenho trabalhado com foco em React Native para a construção de aplicativos que unem performance, usabilidade e um olhar atento à experiência do usuário.
+## Sobre mim
 
-Na web, atuei utilizando React e Next.js, sempre priorizando boas práticas de código, escalabilidade e design responsivo. Ao longo da minha trajetória, participei de projetos diversos, com entregas alinhadas às necessidades reais do negócio.
+- 📱 Desenvolvedor mobile com 4 anos de experiência.
+- 🌐 Atuação também em projetos web com React e Next.js.
+- 💼 Trabalhando com React Native na Rede Cred Auto.
+- 🌱 Evoluindo em testes unitários e CI/CD.
 
-Acredito na tecnologia como ponte entre ideias e soluções práticas.
-Estou sempre de olho em coisas novas, aprendendo e me conectando com pessoas da área. Se quiser trocar uma ideia ou tiver algum projeto em que eu possa ajudar, é só chamar!
-</p>
+## Minhas Skills
 
-<p align="left">
-  🚀 Tecnologias: <strong>JavaScript, React, TypeScript, Next.JS, React Native, Node.js</strong>
-</p>
+**Aplicações e dados**
 
-<p align="left">
-  💼 Ferramentas: <strong>Visual studio code e Figman</strong>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
-<p align="left">
-  💌 Entre em contato comigo via ⤵️
-</p>
+**DevOps e testes**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+**Ferramentas**
+
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+## Onde me encontrar
 
 <p align="left">
   <a href="https://gabriellimaa8500@gmail.com" target="_blank" alt="Gmail">
@@ -32,34 +48,3 @@ Estou sempre de olho em coisas novas, aprendendo e me conectando com pessoas da 
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511930246250"/>
   </a>  
 </p>
-
-<br> 
-
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="All Digital" src="https://rcagroup.com.br/assets/img/rca_horizontal-black.svg"/>](**https://www.redecredauto.com.br/portal/**)
-
-**Desenvolvedor Mobile Pleno** \
-[**Rede Cred Auto**](https://www.redecredauto.com.br/portal/) • Contrato: CLT \
-Linguagens & Tecnologias: `React Native`, `Tailwind CSS`, `TypeScript`, `Git/GitHub`, `GitLab`, `Styled Components`, `Bitbucket`   \
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.x-apps.com.br/favicon.svg?v=7911db89be76ae9c104c428c9cbea2b7"/>](https://www.x-apps.com.br/)
-
-**Desenvolvedor FullStack** \
-[**X-Apps**](https://www.x-apps.com.br/) • Contrato: PJ \
-Linguagens & Tecnologias: `React`, `React Native`, `Tailwind CSS`, `TypeScript`, `Node.js`, `Git/GitHub`, `GitLab`, `Docker`, `Styled Components`, `Strapi`   \
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.agenciaalldigital.com/imgs/favicon.webp"/>](https://www.agenciaalldigital.com)
-
-**Desenvolvedor Front end Jr** \
-[**Agência AllDigital**](https://www.agenciaalldigital.com) • Contrato: PJ \
-Linguagens & Tecnologias: `React`, `Tailwind CSS`, `TypeScript`, `Node.js`, `Git/GitHub` \
-<br/>
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gabriel-lima27/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
