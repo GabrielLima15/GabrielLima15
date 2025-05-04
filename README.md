@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=gabriellimaa&color=006bed)
-
 ## Sobre mim
 
 - 📱 Desenvolvedor mobile com 4 anos de experiência.
