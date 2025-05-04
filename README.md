@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 📱 Desenvolvedor mobile com 4 anos de experiência.
+- 📱 desenvolvedor mobile com 4 anos de experiência e também com atuação em web.
 - 🌐 Atuação também em projetos web com React e Next.js.
 - 💼 Trabalhando com React Native na Rede Cred Auto.
 - 🌱 Evoluindo em testes unitários e CI/CD.
