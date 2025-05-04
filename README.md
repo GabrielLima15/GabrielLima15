@@ -38,7 +38,7 @@ Estou sempre de olho em coisas novas, aprendendo e me conectando com pessoas da 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="All Digital" src="https://www.redecredauto.com.br/portal/assets/images/logo_2010.svg"/>](**https://www.redecredauto.com.br/portal/**)
+[<img align="left" height="94px" width="94px" alt="All Digital" src="https://rcagroup.com.br/assets/img/rca_horizontal-black.svg"/>](**https://www.redecredauto.com.br/portal/**)
 
 **Desenvolvedor Mobile Pleno** \
 [**Rede Cred Auto**](https://www.redecredauto.com.br/portal/) • Contrato: CLT \
