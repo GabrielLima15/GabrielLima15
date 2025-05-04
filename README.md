@@ -1,14 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou Gabriel Carvalho de Lima! 👋 <br>
-  Desenvolvo aplicações web responsivas utilizando tecnologias como React.js e Next.js, aliadas ao Typescript. Para a estilização, aplico ferramentas modernas como TailwindCSS.
+  Sou desenvolvedor mobile com 4 anos de experiência e também com atuação em web. Tenho trabalhado com foco em React Native para a construção de aplicativos que unem performance, usabilidade e um olhar atento à experiência do usuário.
 
-No desenvolvimento de aplicações móveis, emprego React Native e Typescript, complementando a estilização com Styled Components. Na gestão do back-end, minha experiência inclui Node.js e Typescript, bem como bancos de dados MySQL e PostgreSQL, integrados através do TypeORM.
+Na web, atuei utilizando React e Next.js, sempre priorizando boas práticas de código, escalabilidade e design responsivo. Ao longo da minha trajetória, participei de projetos diversos, com entregas alinhadas às necessidades reais do negócio.
 
-Já tive oportunidade de mexer com projetos legados. Adoto o Git para o versionamento de código, garantindo uma gestão eficiente e colaborativa dos projetos.
-
-Além disso, utilizo Docker para criar, gerenciar e implantar aplicações em ambientes isolados, o que assegura maior consistência e facilita a implantação em diferentes plataformas.
+Acredito na tecnologia como ponte entre ideias e soluções práticas.
+Estou sempre de olho em coisas novas, aprendendo e me conectando com pessoas da área. Se quiser trocar uma ideia ou tiver algum projeto em que eu possa ajudar, é só chamar!
 </p>
 
 <p align="left">
